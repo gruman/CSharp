@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matthew Gruman\\Desktop\\C#\\inventory\\Inventory.csproj": {}
+    "C:\\Users\\Matthew Gruman\\Websites\\CSharp\\Inventory\\Inventory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matthew Gruman\\Desktop\\C#\\inventory\\Inventory.csproj": {
+    "C:\\Users\\Matthew Gruman\\Websites\\CSharp\\Inventory\\Inventory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matthew Gruman\\Desktop\\C#\\inventory\\Inventory.csproj",
+        "projectUniqueName": "C:\\Users\\Matthew Gruman\\Websites\\CSharp\\Inventory\\Inventory.csproj",
         "projectName": "Inventory",
-        "projectPath": "C:\\Users\\Matthew Gruman\\Desktop\\C#\\inventory\\Inventory.csproj",
+        "projectPath": "C:\\Users\\Matthew Gruman\\Websites\\CSharp\\Inventory\\Inventory.csproj",
         "packagesPath": "C:\\Users\\Matthew Gruman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matthew Gruman\\Desktop\\C#\\inventory\\obj\\",
+        "outputPath": "C:\\Users\\Matthew Gruman\\Websites\\CSharp\\Inventory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matthew Gruman\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -42,7 +42,7 @@ namespace InventoryProgram
 
             // set up the cart which also stores login data
             Cart.Item cart = new Cart.Item();
-            cart.login = 1;
+            cart.login = 0;
 
             while (true)
             { // keep it on loop

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matthew Gruman\\Desktop\\C#\\Inventory\\Inventory.csproj",
+      "projectUniqueName": "C:\\Users\\Matthew Gruman\\Websites\\CSharp\\Inventory\\Inventory.csproj",
       "projectName": "Inventory",
-      "projectPath": "C:\\Users\\Matthew Gruman\\Desktop\\C#\\Inventory\\Inventory.csproj",
+      "projectPath": "C:\\Users\\Matthew Gruman\\Websites\\CSharp\\Inventory\\Inventory.csproj",
       "packagesPath": "C:\\Users\\Matthew Gruman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matthew Gruman\\Desktop\\C#\\Inventory\\obj\\",
+      "outputPath": "C:\\Users\\Matthew Gruman\\Websites\\CSharp\\Inventory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matthew Gruman\\AppData\\Roaming\\NuGet\\NuGet.Config",

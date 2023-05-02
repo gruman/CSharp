@@ -1,0 +1,15 @@
+C:\Users\Matthew Gruman\Websites\CSharp\FakeID\obj\Debug\net7.0\FakeID.csproj.AssemblyReference.cache
+C:\Users\Matthew Gruman\Websites\CSharp\FakeID\obj\Debug\net7.0\FakeID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew Gruman\Websites\CSharp\FakeID\obj\Debug\net7.0\FakeID.AssemblyInfoInputs.cache
+C:\Users\Matthew Gruman\Websites\CSharp\FakeID\obj\Debug\net7.0\FakeID.AssemblyInfo.cs
+C:\Users\Matthew Gruman\Websites\CSharp\FakeID\obj\Debug\net7.0\FakeID.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Gruman\Websites\CSharp\FakeID\bin\Debug\net7.0\FakeID.exe
+C:\Users\Matthew Gruman\Websites\CSharp\FakeID\bin\Debug\net7.0\FakeID.deps.json
+C:\Users\Matthew Gruman\Websites\CSharp\FakeID\bin\Debug\net7.0\FakeID.runtimeconfig.json
+C:\Users\Matthew Gruman\Websites\CSharp\FakeID\bin\Debug\net7.0\FakeID.dll
+C:\Users\Matthew Gruman\Websites\CSharp\FakeID\bin\Debug\net7.0\FakeID.pdb
+C:\Users\Matthew Gruman\Websites\CSharp\FakeID\obj\Debug\net7.0\FakeID.dll
+C:\Users\Matthew Gruman\Websites\CSharp\FakeID\obj\Debug\net7.0\refint\FakeID.dll
+C:\Users\Matthew Gruman\Websites\CSharp\FakeID\obj\Debug\net7.0\FakeID.pdb
+C:\Users\Matthew Gruman\Websites\CSharp\FakeID\obj\Debug\net7.0\FakeID.genruntimeconfig.cache
+C:\Users\Matthew Gruman\Websites\CSharp\FakeID\obj\Debug\net7.0\ref\FakeID.dll

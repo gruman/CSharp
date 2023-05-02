@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matthew Gruman\\Desktop\\C#\\Menus\\Menus.csproj",
+      "projectUniqueName": "C:\\Users\\Matthew Gruman\\Websites\\CSharp\\Menus\\Menus.csproj",
       "projectName": "Menus",
-      "projectPath": "C:\\Users\\Matthew Gruman\\Desktop\\C#\\Menus\\Menus.csproj",
+      "projectPath": "C:\\Users\\Matthew Gruman\\Websites\\CSharp\\Menus\\Menus.csproj",
       "packagesPath": "C:\\Users\\Matthew Gruman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matthew Gruman\\Desktop\\C#\\Menus\\obj\\",
+      "outputPath": "C:\\Users\\Matthew Gruman\\Websites\\CSharp\\Menus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matthew Gruman\\AppData\\Roaming\\NuGet\\NuGet.Config",
