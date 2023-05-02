@@ -1,0 +1,15 @@
+C:\Users\Matthew Gruman\Desktop\C#\blog\bin\Debug\net7.0\blog.exe
+C:\Users\Matthew Gruman\Desktop\C#\blog\bin\Debug\net7.0\blog.deps.json
+C:\Users\Matthew Gruman\Desktop\C#\blog\bin\Debug\net7.0\blog.runtimeconfig.json
+C:\Users\Matthew Gruman\Desktop\C#\blog\bin\Debug\net7.0\blog.dll
+C:\Users\Matthew Gruman\Desktop\C#\blog\bin\Debug\net7.0\blog.pdb
+C:\Users\Matthew Gruman\Desktop\C#\blog\obj\Debug\net7.0\blog.csproj.AssemblyReference.cache
+C:\Users\Matthew Gruman\Desktop\C#\blog\obj\Debug\net7.0\blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew Gruman\Desktop\C#\blog\obj\Debug\net7.0\blog.AssemblyInfoInputs.cache
+C:\Users\Matthew Gruman\Desktop\C#\blog\obj\Debug\net7.0\blog.AssemblyInfo.cs
+C:\Users\Matthew Gruman\Desktop\C#\blog\obj\Debug\net7.0\blog.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Gruman\Desktop\C#\blog\obj\Debug\net7.0\blog.dll
+C:\Users\Matthew Gruman\Desktop\C#\blog\obj\Debug\net7.0\refint\blog.dll
+C:\Users\Matthew Gruman\Desktop\C#\blog\obj\Debug\net7.0\blog.pdb
+C:\Users\Matthew Gruman\Desktop\C#\blog\obj\Debug\net7.0\blog.genruntimeconfig.cache
+C:\Users\Matthew Gruman\Desktop\C#\blog\obj\Debug\net7.0\ref\blog.dll

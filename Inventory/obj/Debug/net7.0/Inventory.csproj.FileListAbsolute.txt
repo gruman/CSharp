@@ -1,0 +1,15 @@
+C:\Users\Matthew Gruman\Desktop\C#\Inventory\obj\Debug\net7.0\Inventory.csproj.AssemblyReference.cache
+C:\Users\Matthew Gruman\Desktop\C#\Inventory\obj\Debug\net7.0\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew Gruman\Desktop\C#\Inventory\obj\Debug\net7.0\Inventory.AssemblyInfoInputs.cache
+C:\Users\Matthew Gruman\Desktop\C#\Inventory\obj\Debug\net7.0\Inventory.AssemblyInfo.cs
+C:\Users\Matthew Gruman\Desktop\C#\Inventory\obj\Debug\net7.0\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Gruman\Desktop\C#\Inventory\bin\Debug\net7.0\Inventory.exe
+C:\Users\Matthew Gruman\Desktop\C#\Inventory\bin\Debug\net7.0\Inventory.deps.json
+C:\Users\Matthew Gruman\Desktop\C#\Inventory\bin\Debug\net7.0\Inventory.runtimeconfig.json
+C:\Users\Matthew Gruman\Desktop\C#\Inventory\bin\Debug\net7.0\Inventory.dll
+C:\Users\Matthew Gruman\Desktop\C#\Inventory\bin\Debug\net7.0\Inventory.pdb
+C:\Users\Matthew Gruman\Desktop\C#\Inventory\obj\Debug\net7.0\Inventory.dll
+C:\Users\Matthew Gruman\Desktop\C#\Inventory\obj\Debug\net7.0\refint\Inventory.dll
+C:\Users\Matthew Gruman\Desktop\C#\Inventory\obj\Debug\net7.0\Inventory.pdb
+C:\Users\Matthew Gruman\Desktop\C#\Inventory\obj\Debug\net7.0\Inventory.genruntimeconfig.cache
+C:\Users\Matthew Gruman\Desktop\C#\Inventory\obj\Debug\net7.0\ref\Inventory.dll

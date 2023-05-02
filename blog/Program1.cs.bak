@@ -1,0 +1,53 @@
+using System;
+
+namespace Blog
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Cookie cookie = new Cookie {
+                LoggedIn = false
+            };
+
+            Menu(cookie);
+        }
+
+        static void Menu(Cookie cookie)
+        {
+            while (true)
+            {
+                string choice;
+                Console.WriteLine("Welcome to my Blog");
+                if (cookie.LoggedIn)
+                {
+                    Console.WriteLine("[L]ogged in");
+                }
+                else
+                {
+                    Console.WriteLine("[L]ogged out");
+                }
+                Console.WriteLine("Make your selection");
+                choice = Console.ReadLine();
+                if (choice == "l")
+                {
+                    cookie.LoggedIn = !cookie.LoggedIn;
+                }
+            }
+        }
+    }
+
+    
+    class Blog
+    {
+        public string Category { get; set; }
+        public string Title { get; set; }
+        public string Content { get; set; }
+        public DateTime Date { get; set; }
+    }
+
+    class Cookie
+    {
+        public bool LoggedIn { get; set; }
+    }
+}
